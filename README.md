@@ -5,9 +5,9 @@ Welcome to my portfolio! This is where you will find all of the projects that I 
 ## Table of Contents
 
 - [SQL](#sql)
-- R
-- Excel
-- Tableau
+- [R](#r)
+- [Excel](#excel)
+- [Tableau](#tableau)
 
 ## SQL
 
