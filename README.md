@@ -23,14 +23,14 @@ Welcome to my portfolio! This is where you will find all of the projects that I 
 | Place Holder | Place Holder |
 ***
 
-## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/SQL.png' width='30'/>Excel
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/Excel.png' width='30'/>Excel
 
 | Project Link | Description |
 |---|---|
 | Place Holder | Place Holder |
 ***
 
-## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/SQL.png' width='30'/>Tableau
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/Tableau.png' width='30'/>Tableau
 
 | Project Link | Description |
 |---|---|
