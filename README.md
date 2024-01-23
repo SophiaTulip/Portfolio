@@ -9,28 +9,28 @@ Welcome to my portfolio! This is where you will find all of the projects that I 
 - [Excel](#excel)
 - [Tableau](#tableau)
 
-## SQL
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/SQL.png' width='30'/>SQL
 
 | Project Link | Description |
 |---|---|
 | Place Holder | Place Holder |
 ***
 
-## R
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/R.png' width='30'/>R
 
 | Project Link | Description |
 |---|---|
 | Place Holder | Place Holder |
 ***
 
-## Excel
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/SQL.png' width='30'/>Excel
 
 | Project Link | Description |
 |---|---|
 | Place Holder | Place Holder |
 ***
 
-## Tableau
+## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/SQL.png' width='30'/>Tableau
 
 | Project Link | Description |
 |---|---|
