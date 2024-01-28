@@ -13,7 +13,7 @@ Welcome to my portfolio! This is where you will find all of the projects that I 
 
 | Project Link | Description |
 |---|---|
-| Place Holder | Place Holder |
+| [8-Week SQL Challenge](https://github.com/SophiaTulip/8_Week_SQL_Challenge/blob/main/README.md) | Throughout this 8-week SQL challenge, I've explored a wide range of topics and refined essential SQL skills, demonstrating my proficiency in crafting queries and solving complex problems. [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) |
 ***
 
 ## <img src = 'https://github.com/SophiaTulip/Portfolio/blob/main/Images/R.png' width='30'/>R
